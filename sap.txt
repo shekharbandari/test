@@ -1,0 +1,59 @@
+S0022003675
+Pa$$word-1
+
+
+C4H340 (HY400)
+SAP Commerce Cloud Developer Part 1 - Training
+
+Step 1: Goto https://learninghub.sap.com/?languagePrompt=true 
+	Note: Use the S-Userid to access the same
+
+
+Download Commerce Suite
+
+
+Step 1 : https://launchpad.support.sap.com/#/softwarecenter/search/SAP%2520Commerce
+	 Use S-Userid to access
+Step 2: Choose SAP Commerce
+Step 3 : Choose Commerce 1905- > Commerce 1905
+Step 4 : Download CXCOMM190500P_17-70004140.ZIP 
+
+Use b2c_acc_plus instead of commerce Developer
+
+Chenna Reddy Link 
+https://drive.google.com/drive/u/0/folders/1oy4awppQSmQ_uFwQYAyNtPVAh8Ejtqhq
+
+
+https://saplearninghub.plateau.com/icontent_e/CUSTOM_eu/sap/self-managed/Handbook/C4H340_EN_Col94_v1/4/index.html#zoom=z
+
+
+
+http://localhost:9001/yacceleratorstorefront?site=electronics&clear=true
+
+
+solrindexingclient
+indexingclient123
+
+
+
+
+816780     DSLR-A100H
+1298094    AC-VQ900AM
+4205436    32GB SDHC Card
+
+300938
+
+https://github.com/shekharbandari/SAP-Commerce.git
+
+https://github.com/shekharbandari/testrepository.git
+
+
+
+
+
+
+
+
+
+
+
